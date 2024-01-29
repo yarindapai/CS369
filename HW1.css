@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, sans-serif; /*กำหนดฟอนต์และสกุลของตัวอักษร*/
+}
+    .container{
+        width: 30rem; /*กำหนดความกว้างของ container*/
+        margin: 0 auto; /*กำหนดการจัดวางให้อยู่ตรงกลาง*/
+        padding: 2rem; /*กำหนดการเว้นระยะห่างของ container*/
+        border: 1px solid #ccc; /*กำหนดเส้นขอบและสีของเส้นขอบ*/
+        border-radius: 0.5rem; /*กำหนดรัศมีของมุมขอบ*/
+    }
+    .group{
+        margin-bottom: 1rem; /*กำหนดระยะห่างด้านล่างของ form-group*/
+    }
+    img{
+        width: 70%;
+    }
